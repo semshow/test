@@ -27,10 +27,7 @@ class Test
     end
   end
 
-
   def result
     @amount
   end
 end
-
-

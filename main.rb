@@ -1,6 +1,5 @@
 current_path = "./" + File.dirname(__FILE__ )
 
-
 require_relative 'test'
 require_relative 'result_printer'
 
