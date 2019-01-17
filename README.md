@@ -6,4 +6,4 @@ When you finished, depending on score you've got - program will define how jealo
 Ruby
 
 # Run program
-To run this program please launch file "main.rb"
+```ruby main .rb ```
