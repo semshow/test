@@ -11,4 +11,4 @@ test = Test.new(current_path + "/data/questions.txt")
 test.run
 
 final_result = ResultPrinter.new(name, current_path + "/data/answers.txt")
-final_result.print_result(test.result)
+final_result.print_result(test.amount)
